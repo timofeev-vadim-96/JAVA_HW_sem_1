@@ -13,6 +13,6 @@ public class HomeWorkSem1 {
 //                Task2.factorial(inputNumb)); //факториал числа n
 //        System.out.println("Простые числа от 1 до " + inputNumb + " :\n" +
 //                Task3.simpleNumbers(inputNumb)); //простые числа
-        System.out.println(Task4.SimpleCalc());
+        System.out.println(Task4.SimpleCalc()); //простой калькулятор
         }
     }
